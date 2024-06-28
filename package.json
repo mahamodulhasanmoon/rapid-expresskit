@@ -1,8 +1,9 @@
 {
-  "name": "rapid-expresskit",
+  "name": "@brainicsoft/rapid-expresskit",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "bin":"./bin/cli.js",
   "engines": {
     "node": ">=18"
   },
